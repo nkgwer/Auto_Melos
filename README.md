@@ -1,3 +1,3 @@
 # Auto Melos
 
-Generates random sentences from a text.
+Generates random sentences from a text file.
